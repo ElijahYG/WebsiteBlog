@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://elijahyg.github.io/"/>
-  <updated>2019-10-23T16:43:03.619Z</updated>
+  <updated>2019-10-30T14:46:14.461Z</updated>
   <id>https://elijahyg.github.io/</id>
   
   <author>
@@ -15,6 +15,21 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://elijahyg.github.io/2019/10/30/test/"/>
+    <id>https://elijahyg.github.io/2019/10/30/test/</id>
+    <published>2019-10-30T14:46:14.000Z</published>
+    <updated>2019-10-30T14:46:14.461Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Python数据类型之字符串类型</title>
